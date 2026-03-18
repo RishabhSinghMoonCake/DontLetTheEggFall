@@ -92,7 +92,7 @@ This project focuses on creating a **playful and entertaining experience**, wher
 ## 👨‍💻 Developer
 
 **Rishabh Singh**
-CSE Undergraduate @ IIIT Guwahati
+CSE Undergraduate
 Aspiring Software Engineer | Indie Game Developer
 
 ---
