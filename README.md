@@ -69,7 +69,7 @@ This project focuses on creating a **playful and entertaining experience**, wher
 
 ## 📱 Play the Game
 
-👉 https://play.google.com/store/apps/details?id=com.mooncakegames.dontlettheeggfall&hl=en_IN
+👉 https://play.google.com/store/apps/details?id=com.mooncakegames.dontlettheeggfall
 
 ---
 
